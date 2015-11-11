@@ -26,7 +26,7 @@ module Identicon
   end
   
   def self.generate(string, opts = {})
-    Identicon::IdenticonGenerator.new(string,opts)
+    Identicon::IdenticonGenerator.new(string,opts).generate
   end
   
 end

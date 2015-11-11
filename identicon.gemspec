@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Identicon::VERSION
   s.authors     = ["Alex Thomas"]
   s.email       = ["alex.c.thomas@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Identicon."
-  s.description = "TODO: Description of Identicon."
+  s.homepage    = ""
+  s.summary     = "Summary of Identicon."
+  s.description = "Description of Identicon."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
